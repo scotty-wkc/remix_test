@@ -12,7 +12,7 @@ export default function Index() {
     <div className="flex h-screen items-center justify-center">
       <div className="flex flex-col items-center gap-16">
         <header className="flex flex-col items-center gap-9">
-          <h1>Hello, World!</h1>
+          <h1>Hello, World! Scott</h1>
 
         </header>
 
