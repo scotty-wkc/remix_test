@@ -1,3 +1,9 @@
+@font-face {
+  font-family: Poppins;
+  font-style: normal;
+  src: url(/fonts/Poppins-Regular.ttf)
+}
+
 .Content {
   /* width: 1239px; */
   /* height: 1951px; */
